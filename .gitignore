@@ -1,0 +1,13 @@
+/target/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+.kotlintest
+.flattened-pom.xml
+
+### Gradle ###
+.gradle
+/build/
